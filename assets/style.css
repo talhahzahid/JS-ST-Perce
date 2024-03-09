@@ -21,3 +21,10 @@ body{
     text-align: center;
     width: 50%;
 }
+#btn{
+    border-radius: 25px;
+    padding: 10px;
+    margin: 5px;
+    background-color:steelblue ;
+    border: 1px solid black;
+}
